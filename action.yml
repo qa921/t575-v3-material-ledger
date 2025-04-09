@@ -1,0 +1,8 @@
+name: Material Ledger
+description: Publish recovered-material batch ledger
+runs:
+  using: node20
+  main: dist/index.js
+permissions:
+  contents: read
+  id-token: write

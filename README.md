@@ -1,2 +1,2 @@
-# t575-v3-material-ledger
-T575-V3 seed: recycling ledger Action candidate
+# Material Ledger
+Publishes signed recycling material-batch ledgers. Pin SHA. Uses `ajv`, shared with Battery Passport; obtain npm facts and note the dependency overlap.
